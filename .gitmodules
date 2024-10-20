@@ -1,3 +1,6 @@
 [submodule "final-project-AntonioMR.wiki"]
 	path = final-project-AntonioMR.wiki
 	url = https://github.com/cu-ecen-aeld/final-project-AntonioMR.wiki.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://git.busybox.net/buildroot
