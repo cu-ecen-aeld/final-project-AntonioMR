@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_CANBUS_ANALYZER
+	bool "aesd-canbus-analyzer"
+	help
+	  Includes scripts and aplication for analysing CANBUS message traffic.
